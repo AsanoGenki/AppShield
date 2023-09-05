@@ -1,0 +1,94 @@
+{
+  "identifier" : "A6F83AD2",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6447998161",
+    "_developerTeamID" : "4J8L2WD7VW",
+    "_lastSynchronizedDate" : 704369650.42843795
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21322460",
+      "localizations" : [
+
+      ],
+      "name" : "unPlug-Subscription",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "6448014173",
+          "introductoryOffer" : {
+            "internalID" : "B12CEA10",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "Enjoy the app without limits",
+              "displayName" : "unPlug Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "unPlug.Subscription.month",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "unPlug-Subscription-month",
+          "subscriptionGroupID" : "21322460",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "39.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6447998505",
+          "introductoryOffer" : {
+            "internalID" : "12762D1D",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "Enjoy the app without limit",
+              "displayName" : "unPlug Yearly",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "全ての機能を利用する",
+              "displayName" : "DetoxBear",
+              "locale" : "ja"
+            }
+          ],
+          "productID" : "com.unPlug.subscription.year",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "unPlug-Subscription-year",
+          "subscriptionGroupID" : "21322460",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
